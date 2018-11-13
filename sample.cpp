@@ -3,7 +3,7 @@
 int sum(int,int);
 
 int main(){
-    int a=5; int b=3;
+    int a=8; int b=12;
     std::cout << sum(a,b) << std::endl;
     return 0;
 }
